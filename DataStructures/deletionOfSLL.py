@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Deleting first node till single linked list becomes empty
 class Node:
     def __init__(self,data):
